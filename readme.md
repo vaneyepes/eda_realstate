@@ -24,6 +24,6 @@ pip install -r requirements.txt
 
 ## 📓 Notebooks
 
-- Part 0: Import from DBeaver: Used to create the eda.csv file from DBeaver
-- Part 1: Explains step by step how we analysed the data and added more columns and information to the dataset
-- Part 2: Analyses multivariate data and gives answers to our client's task
+- [Notebook Part 0](part0_import_from_dbeaver.ipynb): Import from DBeaver: Used to create the eda.csv file from DBeaver
+- [Notebook Part 1](part1_univariate.ipynb): Explains step by step how we analysed the data and added more columns and information to the dataset
+- [Notebook Part 2](part2_multivariate_and_tasks.ipynb): Analyses multivariate data and gives answers to our client's task
