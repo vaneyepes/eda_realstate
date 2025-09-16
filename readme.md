@@ -1,4 +1,4 @@
-# EDA Project: Amy "The Mafiosi" Williams
+# EDA Project: Real State Exploratory Analysis EDA
 
 Notebooks in this repo will help Amy Williams to decide which houses to sell, and which to buy.
 
