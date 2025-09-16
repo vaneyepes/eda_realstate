@@ -10,6 +10,9 @@ Exploratory data analysis of a housing dataset to identify price drivers and dat
 - Tech: Python, Pandas, NumPy, Jupyter, Matplotlib.
 - Outcome: Cleaned dataset + insights (outliers, correlations, next-step features).
 
+![App Screenshot](screenshot.png)
+
+
 ## Run
 Open the notebook in Jupyter (`.ipynb`).
 
