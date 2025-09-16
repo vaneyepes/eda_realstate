@@ -2,6 +2,18 @@
 
 Notebooks in this repo will help Amy Williams to decide which houses to sell, and which to buy.
 
+# Real Estate EDA
+Exploratory data analysis of a housing dataset to identify price drivers and data quality issues.
+
+## Highlights
+- Role: Data exploration, feature inspection, basic modeling setup.
+- Tech: Python, Pandas, NumPy, Jupyter, Matplotlib.
+- Outcome: Cleaned dataset + insights (outliers, correlations, next-step features).
+
+## Run
+Open the notebook in Jupyter (`.ipynb`).
+
+
 __Group__: Vanesa and Robin
 
 __Original task from [NeueFische Repo](https://github.com/neuefische/ds-eda-project-template/blob/main/assignment.md)__:
